@@ -1,16 +1,20 @@
-# DARREN TOOLKIT v2.0
-By Muhidin - Kibaha, Tanzania | Ethical Hacking
+# 🛡️ DARREN TOOLKIT v2.0
+![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Tanzania](https://img.shields.io/badge/Made%20in-Tanzania-1f9d55)
+
+**By Muhidin - Kibaha, Tanzania | Ethical Hacker**
 
 Toolkit ya Cybersecurity iliyotengenezwa kwa Python kwenye Termux.
 
-## Features
-- 1. WiFi Scanner - Kuona vifaa kwenye network
-- 2. Password Strength Checker
-- 3. Breach Checker - Kuangalia kama password imevuja (Pwned API)
-- 4. Port Scanner - Kuangalia ports wazi kwenye website/server
+### ✨ Features
+- 📡 WiFi Scanner - Kuona vifaa kwenye network
+- 🔑 Password Checker - Kuangalia nguvu ya password
+- 🕵️ Breach Checker - Kuangalia kama password imevuja
+- 🌐 Port Scanner - Kuchunguza ports wazi
 
-## Matumizi
+### 🚀 Matumizi
 python darren_toolkit_v2.py
 
-## Teknolojia
-Python, Nmap, Socket, Hashing, Requests API
+### ⚠️ Disclaimer
+Kwa elimu tu!
+
+Made with ❤️ in Kibaha, Tanzania
